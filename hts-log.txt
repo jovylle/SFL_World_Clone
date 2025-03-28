@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 28 Mar 2025 12:14:57 at https://sfl.world/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qir2C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sfl.world/ -O1 "C:\Users\jovyl\fore\tests\WinHTTrack\SFL_World_Clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:15:07	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: sfl.world/tools/skills/
+12:15:55	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: sfl.world/top/
+12:16:46	Warning: 	Moved Permanently for sfl.world/robots.txt
+12:16:46	Warning: 	Redirected link is identical because of 'URL Hack' option: sfl.world/robots.txt and https://sfl.world/robots.txt
+12:16:46	Warning: 	Warning moved treated for sfl.world/robots.txt (real one is https://sfl.world/robots.txt)
+12:16:46	Warning: 	Moved Permanently for sfl.world/tools/skills/
+12:16:46	Warning: 	Redirected link is identical because of 'URL Hack' option: sfl.world/tools/skills/ and https://sfl.world/tools/skills/
+12:16:46	Warning: 	File has moved from sfl.world/tools/skills/ to https://sfl.world/tools/skills/
+12:17:33	Error: 	"Not Found" (404) at link https://sfl.world/assets/icons/world.png (from https://sfl.world/)
+12:17:33	Warning: 	Moved Permanently for sfl.world/top/
+12:17:33	Warning: 	Redirected link is identical because of 'URL Hack' option: sfl.world/top/ and https://sfl.world/top/
+12:17:33	Warning: 	File has moved from sfl.world/top/ to https://sfl.world/top/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 43 seconds : 162 links scanned, 157 files written (10266529 bytes overall), 155 files updated [1333026 bytes received at 8178 bytes/sec], 9746066 bytes transferred using HTTP compression in 45 files, ratio 6%, 31.6 requests per connection
+(1 errors, 11 warnings, 0 messages)

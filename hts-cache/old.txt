@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:05:53	54844/54844	U--MCZ	200	updated ('OK')	text/html	date:Fri,%2028%20Mar%202025%2004:05:52%20GMT	https://sfl.world/	C:/Users/jovyl/fore/tests/WinHTTrack/SFL_World_Clone/sfl.world/index.html	(from )
+12:05:54	15/15	U-----	200	untouched ('OK')	text/plain	etag:W/%22f-18a8bd25520%22	https://sfl.world/robots.txt		(from )
+12:05:55	98255/98255	U--MCZ	200	updated ('OK')	text/css	etag:W/%2217fcf-nuSWzJuqrli5jn/B60bjV42vgUM%22	https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css	C:/Users/jovyl/fore/tests/WinHTTrack/SFL_World_Clone/cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css	(from https://sfl.world/)
+12:05:55	87533/87533	U-----	200	untouched ('')	text/javascript	date:Tue,%2012%20Sep%202023%2002:38:22%20GMT	https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js	C:/Users/jovyl/fore/tests/WinHTTrack/SFL_World_Clone/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js	(from https://sfl.world/)
+12:05:56	242969/242969	U--M-Z	200	updated ('OK')	application/javascript	etag:%2267e53707-160ff%22	https://mc.yandex.ru/metrika/tag.js	C:/Users/jovyl/fore/tests/WinHTTrack/SFL_World_Clone/mc.yandex.ru/metrika/tag.js	(from https://sfl.world/)
